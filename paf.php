@@ -1,5 +1,5 @@
 <?php
-echo prout
+echo "prout";
 echo gethostname(); // doit afficher i.e : sandie
 
 // Ou, une option qui fonctionne également avant PHP 5.3
