@@ -1,7 +1,7 @@
 <?php
 echo "Bonjour en PHP";
-echo "wesk"
+echo "";
 echo gethostname();
-echo ""
+echo "";
 echo php_uname('n');
 ?>
